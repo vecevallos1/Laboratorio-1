@@ -90,7 +90,7 @@ La ley de voltaje de Kirchhoff o segunda ley está basada en el principio de con
 
 // MEDIDAS DEL AMPERAJE 
 
-![image](https://user-images.githubusercontent.com/116772918/201218609-a4f055a7-d098-4082-8787-563f942c0220.png)
+![image](https://user-images.githubusercontent.com/116772918/201401461-435da11e-43e4-4e3e-b503-62f94a8ff0ce.png)
 
 ![image](https://user-images.githubusercontent.com/116772918/201218653-c5c6d515-3b90-4c78-a24b-80f33baf98aa.png)
 
